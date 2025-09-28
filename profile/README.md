@@ -23,7 +23,7 @@ We are building an **EdTech platform** that helps learners and professionals gro
 ---
 
 ## 📂 Public Repositories
-🔹 [stackfoundry-roadmap](https://github.com/stackfoundry/stackfoundry-roadmap)  
+🔹 [stackfoundry-roadmap](https://github.com/thestackfoundry/stackfoundry-roadmap)  
 → A curated roadmap for learning Python, preparing for certifications, and moving towards AI & freelancing.  
 
 ---
