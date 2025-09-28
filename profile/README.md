@@ -26,9 +26,6 @@ We are building an **EdTech platform** that helps learners and professionals gro
 🔹 [stackfoundry-roadmap](https://github.com/stackfoundry/stackfoundry-roadmap)  
 → A curated roadmap for learning Python, preparing for certifications, and moving towards AI & freelancing.  
 
-🔹 [stackfoundry-site](https://github.com/stackfoundry/stackfoundry-site) _(optional)_  
-→ Code for our "Coming Soon" landing page.  
-
 ---
 
 ## 🎯 Our Mission
